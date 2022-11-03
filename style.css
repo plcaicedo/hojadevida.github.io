@@ -1,0 +1,67 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+h1 {
+    color: #6c2eb9;
+    font-weight: normal;
+    font-size: 40px;
+    font-family: Arial;
+    text-transform: uppercase;
+  }
+  h2 {
+    color: #2C3E50;
+    font-weight: normal;
+    font-size: 35px;
+    font-family: Arial;
+    text-transform: uppercase;
+  }
+  h3 {
+    color: #443963;
+    font-weight: normal;
+    font-size: 30px;
+    font-family: Arial;
+    text-transform: lowercase;
+  }
+  h4 {
+    color: #4f4866;
+    font-weight: normal;
+    font-size: 25px;
+    font-family: Arial;
+    text-transform: lowercase;
+  }
+  h5 {
+    color: #656172;
+    font-weight: normal;
+    font-size: 20px;
+    font-family: Arial;
+    text-transform: lowercase;
+  }
+  h6 {
+    color: #fff;
+    font-weight: normal;
+    font-size: 18px;
+    font-family: Arial;
+    text-transform: lowercase;
+  }
+
+input, textarea{
+    padding: 10px;
+    width: 300px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+#inicio{
+    background-color: #3a10ad;
+    height: 100px;
+}
+
+#location{
+    background-color: #7099f1; 
+    height: 100px;
+}
+#copy{
+    background-color: #212529; 
+    height: 560px;
+}
